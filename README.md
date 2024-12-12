@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Mst Hafsa Begum 👋
 
-<!--
-**Hafsa-Begum/Hafsa-Begum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a developer with expertise in web and mobile development, and I'm passionate about building impactful software solutions.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- **Languages**: JavaScript, Kotlin, C++
+- **Frontend**: React,Next.js, Nuxt3, Vue.js
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB, SQLite, PostgreSQL
+- **DevOps**: GitHub Actions, AWS
+- **Mobile Development**: React Native
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Advanced React Native
+- Kotlin for Android Development
+
+## 🏆 Achievements
+- Over 2 years at Lehoa, building digital tree-planting solutions.
+- Spearheaded SankalpTaru tree registration and integration workflows.
+- Developed scalable CI/CD pipelines for rapid deployments.
+
+## 🌍 Connect With Me
+- **Email**: [msthafsabegum44@gmail.com](mailto:hafsagood@gmail.com)
+- **LinkedIn**: [Hafsa Begum](https://www.linkedin.com/in/mst-hafsa-begum-8ba368227/)
+- **Website**: [Portfolio](https://my-portfolio-2abd5.web.app/)
+
+---
+
+> 🌟 *“Coding is not just writing code; it’s about creating impact.”* 🌟
