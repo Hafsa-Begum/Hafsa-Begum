@@ -11,7 +11,7 @@ with a focus on innovation and efficiency.
 
 ## 💼 Work Experience
 ### Lehoa
-**Role**: Fullstack Web Developer  
+**Role**: CTO || Fullstack Web Developer  
 **Duration**: Around 3 years  
 - Built and maintained the Lehoa digital tree-planting platform, integrating frontend and backend solutions.
 - Developed the Admin Panel for managing the Lehoa Partner dashboard.
