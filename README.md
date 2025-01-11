@@ -36,7 +36,6 @@ with a focus on innovation and efficiency.
 - Microservices E-commerce Architecture
 - System Design
 - Advanced React Native
-- Kotlin for Android Development
 
 ### Ongoing Projects
 - **Microservices E-commerce Architecture**: Created inventory services in a microservices environment.
