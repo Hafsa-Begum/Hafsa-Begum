@@ -43,7 +43,7 @@ with a focus on innovation and efficiency.
 
 ## 🛠️ Technologies & Tools
 - **Languages**: JavaScript, Kotlin, C++
-- **Frontend**: React,Next.js, Nuxt3, Vue.js
+- **Frontend**: React, Next.js, Nuxt3, Vue.js
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, SQLite, PostgreSQL
 - **DevOps**: GitHub Actions, AWS
